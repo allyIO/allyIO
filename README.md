@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Ally Oh, a Computer Science major at the University of Cincinnati. 
 <!--
 **allyIO/allyIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
